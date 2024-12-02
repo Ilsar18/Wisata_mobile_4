@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project_travel/const.dart';
-import 'package:project_travel/latihan_modul/pertemuan6.dart';
+// import 'package:project_travel/latihan_modul/pertemuan6.dart';
 import 'package:project_travel/models/landing_model.dart';
 import 'package:project_travel/screen/Home_page.dart';
 
